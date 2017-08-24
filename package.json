@@ -1,0 +1,15 @@
+{
+  "name": "electron-ping",
+  "version": "1.0.0",
+  "description": "App makes sure you are connected to the internet by constantly pinging google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.7.5",
+    "standard": "^10.0.3"
+  }
+}
